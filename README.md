@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on us
-- 📫 How to reach me ... here
+- 📫 How to reach me am here
 
 <!---
 khabsha/khabsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
